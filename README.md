@@ -12,7 +12,15 @@ A aplicação resolve o problema do tédio através de desafios rápidos (1 a 5 
 
 O desenvolvimento segue uma abordagem incremental baseada em versões, simulando um ambiente real de produto:
 
-### Fase 1: Fundação (Versão Atual)
+### Fase 0: Concepção e Design Visual (Versão Atual)
+Foco: User Experience (UX), User Interface (UI) e Prototipagem.
+- Definição da identidade visual (paleta de cores vibrantes, tipografia e iconografia).
+- Mapeamento da jornada do usuário e fluxos de navegação (User Flow).
+- Criação de wireframes e protótipos de alta fidelidade no Figma.
+- Planejamento do Design System inicial (componentes reutilizáveis como botões e cards).
+- Definição da estratégia de microcopy e tom de voz da aplicação.
+
+### Fase 1: Fundação
 Foco: Lógica de programação, manipulação de DOM e Estilização.
 - Desenvolvimento de interface web responsiva (HTML5 e CSS3).
 - Lógica de cronômetro e seleção aleatória de missões via JavaScript (ES6+).
