@@ -1,0 +1,26 @@
+/* Backgrounds */
+#05070A
+#0E1629
+#1C2541
+
+/* Fonts */
+#FFFFFF
+#B0B0B0
+#333333
+#121212
+
+/* UI Elements & Cards */
+#FFFFFF
+#212529
+#3D5A80
+
+/* Accents & Buttons */
+#FF4D6D
+#4A90E2
+#AAB8C2
+
+/* Social Brand Colors */
+#E4405F
+#1877F2
+#0077B5
+#000000

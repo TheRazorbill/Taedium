@@ -1,0 +1,28 @@
+:root {
+    /* Backgrounds */
+    --bg-dark-primary: #05070A;
+    --bg-dark-secondary: #0E1629;
+    --bg-dark-tertiary: #1C2541;
+
+    /* Fonts */
+    --text-white: #FFFFFF;
+    --text-gray: #B0B0B0;
+    --text-dark-gray: #333333;
+    --text-black: #121212;
+
+    /* UI Elements & Cards */
+    --card-bg: #FFFFFF;
+    --card-dark: #212529;
+    --card-accent: #3D5A80;
+
+    /* Accents & Buttons */
+    --accent-pink: #FF4D6D;
+    --accent-blue: #4A90E2;
+    --accent-gray: #AAB8C2;
+
+    /* Social Brand Colors */
+    --brand-instagram: #E4405F;
+    --brand-facebook: #1877F2;
+    --brand-linkedin: #0077B5;
+    --brand-twitter: #000000;
+}
